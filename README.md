@@ -26,7 +26,7 @@
 <div align="center">
 <h3><B> Portfolio v2.0</B></h3> &nbsp
 <br>
-<img src="https://user-images.githubusercontent.com/103957365/190252699-9f5e25c5-3f50-44fe-ad6b-2381147f5c5f.PNG">
+<img src="https://user-images.githubusercontent.com/103957365/191834923-2381a60c-8586-4234-8416-5e7047eb11d8.png">
 </div>
 
 <br><br>
